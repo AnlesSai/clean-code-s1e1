@@ -60,6 +60,10 @@
     color: #3a3a3a;
 }
 /* Heading */
+.hidden {
+    position: fixed;
+    visibility: hidden;
+}
 .subtitle
 .label[for="new-task"] {
     color: #333;
